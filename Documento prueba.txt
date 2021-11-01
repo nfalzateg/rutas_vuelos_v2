@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este texto se escribe desde qa
+=======
+Este texto se edita desde desarrollo para subir a master
+>>>>>>> desarrollo
